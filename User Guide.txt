@@ -1,0 +1,12 @@
+AtomChat1
+- It is a chat-bot specific only to the default documents and 
+answers questions based on these default documents only.
+
+AtomChat2
+- It is a more general purpose MultiPDF-ChatBot. It answers questions based
+on the documents you upload, and incase you dont upload any
+documents then it answers questions based on its default
+documents.
+
+GUIPictures
+This folder contains pictures of the front-end interface
